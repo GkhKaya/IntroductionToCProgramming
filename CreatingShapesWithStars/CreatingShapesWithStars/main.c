@@ -45,6 +45,41 @@ int main(int argc, const char * argv[]) {
         printf("** \n");
     }*/
     
+/* Write this shape:
+   ******
+   *****
+   ***
+   **
+   *
+*/
+    
+    /*int i,j;
+    
+    for (i=0; i<5; i++) {
+        for (j=5; j>i; j--) {
+            printf("*");
+        }
+        printf("\n");
+    }*/
+    
+//    Create a rectangle according to the width and height ratios entered on the keyboard
+    /*int i,j,width,height;
+    
+    printf("Please enter width: ");
+    scanf("%d", &width);
+    printf("Please enter height: ");
+    scanf("%d", &height);
+    
+    for (i=0; i<height; i++) {
+        for (j=0; j<width; j++) {
+            printf("*");
+        }
+        printf("\n");
+            
+    }*/
+    
+   
+    
     
     return 0;
 }
